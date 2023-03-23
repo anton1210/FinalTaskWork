@@ -1,0 +1,15 @@
+D:\Учеба GB\Итоги блока, выбор специализации\string_array\task\bin\Debug\net6.0\task.exe
+D:\Учеба GB\Итоги блока, выбор специализации\string_array\task\bin\Debug\net6.0\task.deps.json
+D:\Учеба GB\Итоги блока, выбор специализации\string_array\task\bin\Debug\net6.0\task.runtimeconfig.json
+D:\Учеба GB\Итоги блока, выбор специализации\string_array\task\bin\Debug\net6.0\task.dll
+D:\Учеба GB\Итоги блока, выбор специализации\string_array\task\bin\Debug\net6.0\task.pdb
+D:\Учеба GB\Итоги блока, выбор специализации\string_array\task\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
+D:\Учеба GB\Итоги блока, выбор специализации\string_array\task\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба GB\Итоги блока, выбор специализации\string_array\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+D:\Учеба GB\Итоги блока, выбор специализации\string_array\task\obj\Debug\net6.0\task.AssemblyInfo.cs
+D:\Учеба GB\Итоги блока, выбор специализации\string_array\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+D:\Учеба GB\Итоги блока, выбор специализации\string_array\task\obj\Debug\net6.0\task.dll
+D:\Учеба GB\Итоги блока, выбор специализации\string_array\task\obj\Debug\net6.0\refint\task.dll
+D:\Учеба GB\Итоги блока, выбор специализации\string_array\task\obj\Debug\net6.0\task.pdb
+D:\Учеба GB\Итоги блока, выбор специализации\string_array\task\obj\Debug\net6.0\task.genruntimeconfig.cache
+D:\Учеба GB\Итоги блока, выбор специализации\string_array\task\obj\Debug\net6.0\ref\task.dll
